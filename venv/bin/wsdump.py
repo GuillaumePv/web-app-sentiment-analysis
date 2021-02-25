@@ -1,4 +1,4 @@
-#!/Users/guillaume/MyProjects/PythonProjects/ProgrammingProject/AlgoTrading/venv/bin/python3
+#!/Users/guillaume/MyProjects/PythonProjects/ProgrammingProject/AlgoTrading/web-app-sentiment-analysis/venv/bin/python3
 
 import argparse
 import code

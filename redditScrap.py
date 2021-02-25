@@ -2,6 +2,12 @@ from psaw import PushshiftAPI
 import datetime as dt
 import json
 
+subreddits=[
+    'CryptoCurrency',
+    'Bitcoin',
+    'Crypto_Currency_News',
+    'CryptoMarkets'
+]
 api = PushshiftAPI()
 
 start_epoch=int(dt.datetime(2021, 2, 1).timestamp())
